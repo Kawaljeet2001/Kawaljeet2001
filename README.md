@@ -8,7 +8,7 @@ I am a Prospective Data Scientist and Python Developer.
 - :gear: **Framework/Libraries-** Node.js,Express.js,React Hooks, Keras, Pandas, ScikitLearn and Tensorflow.
 - ⚡ Fun fact: **I have been doing Visual Effects and 3D Animation for last 5 years!**.
 
-### Connect with me
+- :handshake:  **Connect with me**
 
 [![Linkedin Badge](https://img.shields.io/badge/Kawaljeet-Linkedin-blue)](https://www.linkedin.com/in/kawaljeetsinghbatra/)
 <!---
