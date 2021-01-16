@@ -1,12 +1,13 @@
 # Hi there, I am Kawaljeet👋
 
-I am a Prospective Data Scientist and Python Developer. 
+I am a Deep Learning Enthusiaist. 
 
-
+  
 - 🔭 I’m currently studying Information Teachnology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
-- 🌱 I’m currently learning Machine Learning and Neural Networks.  
+- :books: I’m currently exploring Deep Learning and Competetive Coding.  
 - :computer: **Languages-** C++, Python and Javascript.
 - :gear: **Framework/Libraries-** Node.js,Express.js,React Hooks, Keras, Pandas, ScikitLearn and Tensorflow.
+- :trophy: **Internships/Experiences-** Software Developer at [WonderMaths](https://www.wondermaths.com/) || Research Content Writer at [The Socians](https://www.thesocians.com/)
 - ⚡ Fun fact: **I have been doing Visual Effects and 3D Animation for last 5 years!**.
 
 - :handshake:  **Connect with me at:**                                                                                                                                             
