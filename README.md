@@ -10,7 +10,7 @@ I am a Prospective Data Scientist and Python Developer.
 
 - :handshake:  **Connect with me at: **
 
-- :[![Linkedin Badge](https://img.shields.io/badge/-Kawaljeet%20Singh%20Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawaljeetsinghbatra/]
+[![Linkedin Badge](https://img.shields.io/badge/-Kawaljeet%20Singh%20Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawaljeetsinghbatra/]
 <!---
 [![Gmail Badge](https://img.shields.io/badge/-shambhavishandilya01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shambhavishandilya01@gmail.com)](mailto:shambhavishandilya01@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@savi.1311-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/savi.1311/)]
