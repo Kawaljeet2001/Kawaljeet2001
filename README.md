@@ -10,7 +10,11 @@ I am a Prospective Data Scientist and Python Developer.
 
 ### Connect with me
 
-
+[![Linkedin Badge](https://img.shields.io/badge/Kawaljeet-Linkedin-blue](https://www.linkedin.com/in/kawaljeetsinghbatra/)
+<!---
+[![Gmail Badge](https://img.shields.io/badge/-shambhavishandilya01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shambhavishandilya01@gmail.com)](mailto:shambhavishandilya01@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-@savi.1311-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/savi.1311/)]
+-->
 <!--- 😄 Pronouns: ... -->
 <!--
 - 👯 I’m looking to collaborate on ...
