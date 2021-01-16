@@ -3,7 +3,7 @@
 I am a Deep Learning Enthusiaist. 
 
   
-- 🔭 I’m currently studying Information Teachnology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
+- 🔭 I’m currently studying Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 - :books: I’m currently exploring Deep Learning and Competetive Coding.  
 - :computer: **Languages-** C++, Python and Javascript.
 - :gear: **Framework/Libraries-** Node.js,Express.js,React Hooks, Keras, Pandas, ScikitLearn and Tensorflow.
