@@ -8,7 +8,6 @@ I am a Deep Learning Enthusiaist.
 - :trophy: **Internships/Experiences-** Software Developer at [WonderMaths](https://www.wondermaths.com/) || Research Content Writer at [The Socians](https://www.thesocians.com/)
 - ⚡ Fun fact: **I have been doing Digital Art and 3D Animation for last 5 years!**.
 
-<br/>
 
 ### Languages
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
