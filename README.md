@@ -9,7 +9,6 @@ I am a Deep Learning Enthusiaist.
 - ⚡ Fun fact: **I have been doing Digital Art and 3D Animation for last 5 years!**.
 
 <br/>
-<br/>
 
 ### Languages
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
@@ -29,6 +28,7 @@ I am a Deep Learning Enthusiaist.
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/firebase.svg" />
 
+<br/>
 <br/>
 <br/>
 
