@@ -24,10 +24,11 @@ I am a Deep Learning Enthusiaist.
 
  
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="80" height="80"/> </a>
- <a href="https://www.w3.org/css/" target="_blank"> <img src="https://icon2.cleanpng.com/20180619/rws/kisspng-web-development-html-cascading-style-sheets-css3-b-minimalist-resume-5b29b19e9bafc6.8542673215294591026377.jpg" width="80" height="80"/> </a>
+ <a href="https://www.w3.org/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/ width="80" height="80"/>> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="80" height="80"/> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="80" height="80"/> </a> 
+ <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" width="80" height="80"/>/></a> 
  <a href="https://reactjs.org/" target="_blank">
  <a href="https://material-ui.com" target="_blank"> <img src="https://material-ui.com/static/logo.png" alt="Material UI" width="80" height="80"/> </a>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="100" height="80"/> </a>
