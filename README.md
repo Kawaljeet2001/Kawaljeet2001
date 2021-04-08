@@ -10,9 +10,9 @@ I am a Deep Learning Enthusiaist.
 
 
 ### Languages
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="80" height="80"/> </a>
+ <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="80" height="80" /> </a>
+ <a href="https://www.w3schools.com/python/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" width="80" height="80"/> </a>
 
 <br/>
 <br/>
