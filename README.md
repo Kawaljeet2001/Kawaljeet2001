@@ -24,6 +24,7 @@ I am a Deep Learning Enthusiaist.
 
  
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="80" height="80"/> </a>
+ <a href="https://www.w3.org/css/" target="_blank"> <img src="https://icon2.cleanpng.com/20180619/rws/kisspng-web-development-html-cascading-style-sheets-css3-b-minimalist-resume-5b29b19e9bafc6.8542673215294591026377.jpg" width="80" height="80"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="80" height="80"/> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="80" height="80"/> </a> 
