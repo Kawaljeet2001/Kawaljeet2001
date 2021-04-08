@@ -14,8 +14,6 @@ I am a Deep Learning Enthusiaist.
  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="80" height="80" /> </a>
  <a href="https://www.w3schools.com/python/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" width="80" height="80"/> </a>
 
-<br/>
-<br/>
 
 
 ### Tools and Frameworks
@@ -40,8 +38,6 @@ I am a Deep Learning Enthusiaist.
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="80"/> </a>
  </p>
 
-<br/>
-<br/>
 <br/>
 
 - :handshake:  **Connect with me at:**                                                                                                                                             
