@@ -30,7 +30,8 @@ I am a Deep Learning Enthusiaist.
  <a href="https://reactjs.org/" target="_blank">
  <a href="https://material-ui.com" target="_blank"> <img src="https://material-ui.com/static/logo.png" alt="Material UI" width="80" height="80"/> </a>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="100" height="80"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png" width="100" height="80"/></a> 
+ <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png" width="100" height="80"/></a>
+ <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://www.django-rest-framework.org/img/logo.png" width="100" height="80"/></a>
  <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
  <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" height="80"/> </a>
  <a href="https://www.netlify.com" target="_blank"> 
