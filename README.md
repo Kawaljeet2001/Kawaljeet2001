@@ -44,7 +44,12 @@ I am a Deep Learning Enthusiaist.
 
 - :handshake:  **Connect with me at:**                                                                                                                                             
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kawaljeet%20Singh%20Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawaljeetsinghbatra/)](https://www.linkedin.com/in/kawaljeetsinghbatra/)                                    [![Gmail Badge](https://img.shields.io/badge/-batrakawaljeetsingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batrakawaljeetsingh@gmail.com)](mailto:batrakawaljeetsingh@gmail.com)                                                                                                                                                                       
+[![Linkedin Badge](https://img.shields.io/badge/-Kawaljeet%20Singh%20Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawaljeetsinghbatra/)](https://www.linkedin.com/in/kawaljeetsinghbatra/)                                    [![Gmail Badge](https://img.shields.io/badge/-batrakawaljeetsingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batrakawaljeetsingh@gmail.com)](mailto:batrakawaljeetsingh@gmail.com)                                                                                                                                           
+
+
+[![Kawaljeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawaljeet2001)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 [![Gmail Badge](https://img.shields.io/badge/-shambhavishandilya01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shambhavishandilya01@gmail.com)](mailto:shambhavishandilya01@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@savi.1311-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/savi.1311/)]
