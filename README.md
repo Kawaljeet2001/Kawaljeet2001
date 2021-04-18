@@ -48,7 +48,7 @@ I am a Deep Learning Enthusiaist.
 
 <br/>
 <p align = "center">
-[![Kawaljeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawaljeet2001)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kawaljeet2001&show_icons=true&hide_border=true">
 </p>
 
 <!---
