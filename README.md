@@ -51,14 +51,4 @@ I am a Deep Learning Enthusiaist.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kawaljeet2001&show_icons=true&hide_border=true">
 </p>
 
-<!---
-[![Gmail Badge](https://img.shields.io/badge/-shambhavishandilya01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shambhavishandilya01@gmail.com)](mailto:shambhavishandilya01@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-@savi.1311-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/savi.1311/)]
--->
-<!--- 😄 Pronouns: ... -->
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-[<img align = "left" width = "22px" src = "https://raw/githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-- 📫 Contact me at: batrakawaljeetsingh@gmail.com
-- 💬 Ask me about ... -->
+
