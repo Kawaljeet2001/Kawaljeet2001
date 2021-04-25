@@ -47,8 +47,8 @@ I am a Deep Learning Enthusiaist.
 [![Linkedin Badge](https://img.shields.io/badge/-Kawaljeet%20Singh%20Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawaljeetsinghbatra/)](https://www.linkedin.com/in/kawaljeetsinghbatra/)                                    [![Gmail Badge](https://img.shields.io/badge/-batrakawaljeetsingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batrakawaljeetsingh@gmail.com)](mailto:batrakawaljeetsingh@gmail.com)                                                                                                                                           
 
 <br/>
-<p align = "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kawaljeet2001&show_icons=true&hide_border=true">
-</p>
+<!-- <p align = "center"> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kawaljeet2001&show_icons=true&hide_border=true"> -->
+
 
 
