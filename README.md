@@ -1,10 +1,12 @@
-# Hi there, I am Kawaljeet👋
+<!-- # Hi there, I am Kawaljeet👋 -->
 
-I am a Deep Learning Enthusiaist. 
+![Cover Image](./githubcover.png) 
+
+<!-- I am a Deep Learning Enthusiaist.  -->
 
   
 - 🔭 I’m currently pursuing Integrated B.Tech in Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
-- :books: Exploring Deep Learning and Full Stack Developement.  
+- :books: Exploring Full Stack Developement and Open Source.  
 - :trophy: **Internships/Experiences-** Software Developer at [WonderMaths](https://www.wondermaths.com/) || Research Content Writer at [The Socians](https://www.thesocians.com/)
 - ⚡ Fun fact: **I have been doing Digital Art and 3D Animation for last 5 years!**.   <a href = "https://www.artstation.com/kawal2001singh"><b>Artstation Portfolio:</b> <img height = "20" width = "20" src="https://img.icons8.com/color/48/000000/artstation.png"/></a>
 
