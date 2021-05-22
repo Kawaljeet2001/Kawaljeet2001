@@ -1,6 +1,6 @@
 <!-- # Hi there, I am Kawaljeet👋 -->
 
-![Cover Image](./githubcover.png) 
+![Cover Image](./githubCover.png) 
 
 <!-- I am a Deep Learning Enthusiaist.  -->
 
