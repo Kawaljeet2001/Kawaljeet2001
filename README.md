@@ -56,15 +56,17 @@
  </p>
 <br/>
 
-- :handshake:  **Connect with me at:**                                                                                                                                             
+- :handshake:  **Do Connect with me:**                                                                                                                                             
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kawaljeet%20Singh%20Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawaljeetsinghbatra/)](https://www.linkedin.com/in/kawaljeetsinghbatra/)                                    [![Gmail Badge](https://img.shields.io/badge/-batrakawaljeetsingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batrakawaljeetsingh@gmail.com)](mailto:batrakawaljeetsingh@gmail.com)                                                                                                                                           
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Kawaljeet%20Singh%20Batra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawaljeetsinghbatra/)](https://www.linkedin.com/in/kawaljeetsinghbatra/)                                    [![Gmail Badge](https://img.shields.io/badge/-batrakawaljeetsingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batrakawaljeetsingh@gmail.com)](mailto:batrakawaljeetsingh@gmail.com)                                                                                                                                            -->
+<p align="left">
+<a href = "https://ksb-portfolio.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/portfolio.png" height = "45"/></a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/kawaljeetsinghbatra/"><img src="https://img.icons8.com/fluent/96/000000/linkedin.png" height = "45"/></a>&nbsp;&nbsp;
+<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" height = "45"/></a>&nbsp;&nbsp; -->
+<a href = "https://www.instagram.com/kawaljeet_sb/"><img src="https://img.icons8.com/fluent/96/000000/instagram-new.png" height = "45"/></a>&nbsp;&nbsp;
+<a href = "https://www.artstation.com/kawal2001singh"><img src="https://img.icons8.com/color/96/000000/artstation.png" height = "45"/></a>&nbsp;&nbsp;
+</p>
 
-<!-- <img src="https://img.icons8.com/fluent/96/000000/portfolio.png"/> -->
-<!-- <img src="https://img.icons8.com/color/96/000000/artstation.png"/> -->
-<!-- <img src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/> -->
-<!-- <img src="https://img.icons8.com/fluent/96/000000/linkedin.png"/> -->
-<!-- <img src="https://img.icons8.com/fluent/96/000000/gmail-new.png"/> -->
 <br/>
 
 
