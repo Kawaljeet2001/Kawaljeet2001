@@ -22,7 +22,7 @@
 
 <p align="left">
 
- 
+ <img src="https://img.icons8.com/color/48/000000/sass.png" height = "35"/> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="80" height="80"/> </a>
  <a href="https://www.w3.org/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"  width="80" height="80"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -41,6 +41,13 @@
  <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="Netlify" width="80" height="80"/> </a>
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="80"/> </a>
  </p>
+
+<!-- <img src="https://img.icons8.com/ios-glyphs/60/000000/react.png" height = "35"/> -->
+<!-- <img src="https://img.icons8.com/windows/64/000000/node-js.png" height = "35"/> -->
+<!-- <img src="https://user-images.githubusercontent.com/56871802/119249860-b716ca00-bbb9-11eb-9ac4-f4ac92db8529.png" height = "35"/> -->
+<!-- <img src="https://img.icons8.com/ios-filled/100/000000/django.png" height = "35"/> -->
+
+
 
 <br/>
 
