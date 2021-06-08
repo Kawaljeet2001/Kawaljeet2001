@@ -69,7 +69,7 @@
 
 <br/>
 
-![Kawaljeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawaljeet2001&show_icons=true&)
+<!-- ![Kawaljeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawaljeet2001&show_icons=true&) -->
 
 
 
