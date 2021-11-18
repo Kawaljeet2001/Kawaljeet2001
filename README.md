@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently pursuing Integrated B.Tech in Information Technology from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 - :books: Exploring Full Stack Developement and Open Source.  
-- :trophy: **Internships/Experiences-** Full Stack Engineer (Web) at [Equiseed Wealth](https://equiseedwealth.com) || Software Developer at [WonderMaths](https://www.wondermaths.com/) || Research Content Writer at [The Socians](https://www.thesocians.com/)
+- :trophy: **Internships/Experiences-** Software Engineer (SWE) at [Equiseed Wealth](https://equiseedwealth.com) || Software Developer at [WonderMaths](https://www.wondermaths.com/) || Research Content Writer at [The Socians](https://www.thesocians.com/)
 - ⚡ Fun fact: **I have been doing Digital Art and 3D Animation for last 5 years!**.   <a href = "https://www.artstation.com/kawal2001singh"><b>Artstation Portfolio:</b> <img height = "20" width = "20" src="https://img.icons8.com/color/48/000000/artstation.png"/></a>
 
 
