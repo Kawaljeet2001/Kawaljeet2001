@@ -15,7 +15,7 @@
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50" height="50"/> </a>
  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50" /> </a>
  <a href="https://www.w3schools.com/python/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/> </a>
- <img src="https://img.icons8.com/color/96/golang.png" alt="golang"/>
+ <img src="https://img.icons8.com/color/96/golang.png" alt="golang" height = "50"/>
 
 
 
@@ -30,17 +30,18 @@
  <img src="https://img.icons8.com/color/96/000000/django.png" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/96/000000/mongodb.png" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/fluent/96/000000/mysql-logo.png" height = "45"/>&nbsp;&nbsp;
- <img src="https://img.icons8.com/color/96/postgreesql.png" alt="postgreesql"/>&nbsp;&nbsp;
+ <img src="https://img.icons8.com/color/96/postgreesql.png" alt="postgreesql" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/96/000000/firebase.png" height = "45"/> &nbsp;&nbsp;
  <img src="https://img.icons8.com/color/48/000000/sass.png" height = "45"/> &nbsp;&nbsp;
  <img src="https://tailwindcss.com/favicon-32x32.png" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/48/000000/material-ui.png" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/96/000000/git.png" height = "45" />&nbsp;&nbsp;
- <img src="https://img.icons8.com/windows/96/github.png" alt="github"/>
- <img src="https://img.icons8.com/color/96/docker.png" alt="docker"/>&nbsp;&nbsp;
+ <img src="https://img.icons8.com/windows/96/github.png" alt="github" height = "45"/>&nbsp;&nbsp;
+ <img src="https://img.icons8.com/color/96/docker.png" alt="docker" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/96/000000/heroku.png" height = "45"/>&nbsp;&nbsp;
- <img src="https://img.icons8.com/color/96/console.png" alt="console"/>
- <img src="https://img.icons8.com/color/96/power-bi.png" alt="power-bi"/>
+ <img src="https://img.icons8.com/color/96/console.png" alt="console" height = "45"/>&nbsp;&nbsp;
+ <img src="https://img.icons8.com/color/96/power-bi.png" alt="power-bi" height = "45"/>&nbsp;&nbsp;
+  
 <!--  <img src="https://www.netlify.com/v3/static/favicon/favicon-32x32.png" height = "45" />&nbsp;&nbsp; -->
   
 <!--  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="80" height="80"/> </a> -->
