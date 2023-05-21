@@ -33,7 +33,6 @@
  <img src="https://img.icons8.com/color/96/postgreesql.png" alt="postgreesql" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/96/000000/firebase.png" height = "45"/> &nbsp;&nbsp;
  <img src="https://img.icons8.com/color/48/000000/sass.png" height = "45"/> &nbsp;&nbsp;
-<!--  <img src="https://tailwindcss.com/favicon-32x32.png" height = "45"/>&nbsp;&nbsp; -->
  <img src="https://img.icons8.com/color/48/000000/material-ui.png" height = "45"/>&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/96/000000/git.png" height = "45" />&nbsp;&nbsp;
  <img src="https://img.icons8.com/windows/96/github.png" alt="github" height = "45"/>&nbsp;&nbsp;
@@ -43,9 +42,9 @@
  <img src="https://img.icons8.com/color/96/power-bi.png" alt="power-bi" height = "45"/>&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="power-bi" height = "45"/>&nbsp;&nbsp;
  <img src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" alt="power-bi" height = "45"/>&nbsp;&nbsp;
- <img src="[https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png](https://keras.io/img/logo.png)" alt="keras" height = "45"/>&nbsp;&nbsp;
+ <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d382c4826ad8a3805f72b9df3ab5b56e/keras.png" alt="keras" height = "45"/>&nbsp;&nbsp;
  <img height="45" src="https://img.icons8.com/color/96/ms-excel.png" alt="ms-excel"/>
- <img height="45" src="[https://img.icons8.com/color/96/ms-excel.png](https://freelogopng.com/images/all_img/1681038628chatgpt-icon-logo.png)" alt="chatgpt"/>
+ <img height="45" src="https://freelogopng.com/images/all_img/1681038628chatgpt-icon-logo.png" alt="chatgpt"/>
   
   
 <!--  <img src="https://www.netlify.com/v3/static/favicon/favicon-32x32.png" height = "45" />&nbsp;&nbsp; -->
